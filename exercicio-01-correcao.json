@@ -1,0 +1,23 @@
+{
+   "sku":"sku-exercicio-01",
+   "productGroup": "sku-exercicio-01",
+   "department": "Dia a dia",
+   "productType": "Esportivo",
+   "brand": "Naike",
+   "name": "Tênis Priority Mid",
+   "description": "O Tênis Priority Mid foi desenhado para seu dia a dia.",
+   "color": "Preta",
+   "gender": "Homem",
+   "manufacturerCode":"sku-exercicio-01",
+   "size": "40",
+   "height": "0.15",
+   "width": 1,
+   "depth": 1,
+   "weight": 0,
+   "video":"http://www.google.com",
+   "images": [
+      {
+         "url":"http://myserver/image1.jpg"
+      }
+   ]
+}
