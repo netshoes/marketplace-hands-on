@@ -1,0 +1,23 @@
+{
+   "sku":"sku-exercicio-01",
+   "productGroup": "sku-exercicio-01",
+   "department": "Casual",
+   "productType": "Esporte",
+   "brand": "Naike",
+   "name": "Tênis Naike Cor Avermelhado Masculino ou Feminino para esportes muito leve com apenas 100 gramas",
+   "description": "O Tênis Nike Priority Mid",
+   "color": "Preta",
+   "gender": "homem",
+   "manufacturerCode":"sku-exercicio-01",
+   "size": "40",
+   "height": "0,15",
+   "width": 1,
+   "depth": 1,
+   "weight": 0,
+   "video":"www.google.com",
+   "images": [
+      {
+         "url":""
+      }
+   ]
+}
