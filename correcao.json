@@ -1,7 +1,6 @@
 # PUT http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson
 
-# GET http://api-sandbox.netshoes.com.br/api/v1/bus/NS/departments
-# GET http://api-sandbox.netshoes.com.br/api/v1/department/6/productType
+# GET http://api-sandbox.netshoes.com.br/api/v1/department/6/productType/180/templates
 
 # token API V1 sandbox
 # client_id:r0lnkidgOcBw
@@ -31,9 +30,9 @@
    ],
    "attributes": [
      {
-         "name": "Tecnologias",
+         "name": "Tecnologia",
          "values": [
-            "Air"
+            "Air Maxx"
          ]
      }
    ]
