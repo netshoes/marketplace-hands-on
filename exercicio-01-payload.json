@@ -1,3 +1,6 @@
+
+# POST http://api-sandbox.netshoes.com.br/api/v2/products
+
 {
    "sku":"sku-exercicio-01",
    "productGroup": "sku-exercicio-01",
