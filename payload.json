@@ -1,5 +1,5 @@
 
-# PUT http://api-sandbox.netshoes.com.br/api/v2/products/{sku}
+# PUT http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson
 
 {
    "sku":"exercicio-handson",
