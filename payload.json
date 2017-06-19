@@ -22,5 +22,13 @@
       {
          "url":""
       }
+   ],
+   "attributes": [
+     {
+         "name": "Tecnologias",
+         "values": [
+            "Air"
+         ]
+     }
    ]
 }
