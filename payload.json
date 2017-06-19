@@ -1,6 +1,6 @@
 
-# POST http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson/stocks
+# PUT http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson/status
 
 {
-  "available": -5
+	"status": "OK"
 }
