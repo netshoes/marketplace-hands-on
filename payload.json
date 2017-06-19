@@ -22,5 +22,13 @@
       {
          "url":"http://myserver/image1.jpg"
       }
+   ],
+   "attributes": [
+     {
+         "name": "Tecnologias",
+         "values": [
+            "Air"
+         ]
+     }
    ]
 }
