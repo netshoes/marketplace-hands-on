@@ -1,7 +1,6 @@
 
-# POST http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson/prices
+# POST http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson/stocks
 
 {
-  "listPrice": 26,
-  "salePrice": 110.50
+  "available": -10
 }
