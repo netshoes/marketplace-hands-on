@@ -1,5 +1,13 @@
 # PUT http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson
 
+# GET http://api-sandbox.netshoes.com.br/api/v1/brands
+# GET http://api-sandbox.netshoes.com.br/api/v1/colors
+# GET http://api-sandbox.netshoes.com.br/api/v1/flavors
+
+# token API V1 sandbox
+# client_id:r0lnkidgOcBw
+# access_token:DPggXLj1MpOW
+
 {
    "sku":"exercicio-handson",
    "productGroup": "exercicio-handson",
