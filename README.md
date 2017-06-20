@@ -20,21 +20,24 @@ http://developers.netshoes.com.br/api-portal/
 
 #### Exercício 03
 
-- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-03)
+- [Explicação e contratos para o exercício 03](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-03)
 
 #### Exercício 04
 
-- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-04)
+- [Explicação e contratos para o exercício 04](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-04)
 
 #### Exercício 05
 
-- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-05)
+- [Explicação e contratos para o exercício 05](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-05)
 
 #### Exercício 06
 
-- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-06)
+- [Explicação e contratos para o exercício 06](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-06)
 
 #### Exercício 07
 
-- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-07)
+- [Explicação e contratos para o exercício 07](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-07)
 
+# Ferramentas
+
+[POSTMAN](https://www.getpostman.com/)
