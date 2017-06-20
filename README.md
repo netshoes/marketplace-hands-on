@@ -1,6 +1,3 @@
-### Arquivo para importação POSTMAN
-https://www.getpostman.com/collections/33cac06943072744537c
-
 ### Marcas
 ``` 
 curl -X GET \
