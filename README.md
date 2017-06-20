@@ -1,7 +1,9 @@
 POST http://api-sandbox.netshoes.com.br/api/v2/products
 
 Headers:
-  Content-type: application/json
+  * content-type: application/json
+  * client_id: ${client_id}
+  * access_token: ${access_token}
 
 ```json
 {
