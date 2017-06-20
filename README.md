@@ -1,6 +1,6 @@
 POST http://api-sandbox.netshoes.com.br/api/v2/products
 
-```
+```json
 {
    "sku":"exercicio-handson",
    "productGroup": "exercicio-handson",
