@@ -39,4 +39,4 @@ Projeto Marketplace Hands-ON
 
 # Ferramentas
 
-[POSTMAN](https://www.getpostman.com/)
+ - [POSTMAN](https://www.getpostman.com/)
