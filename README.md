@@ -1,4 +1,4 @@
-###Arquivo para importação POSTMAN
+### Arquivo para importação POSTMAN
 https://www.getpostman.com/collections/33cac06943072744537c
 
 Headers:
@@ -7,7 +7,7 @@ Headers:
 * access_token: DPggXLj1MpOW
 
 ### Marcas
-GET http://api-sandbox.netshoes.com.br/api/v1/brands
+ GET http://api-sandbox.netshoes.com.br/api/v1/brands
 
 ### Cores
 GET http://api-sandbox.netshoes.com.br/api/v1/colors
