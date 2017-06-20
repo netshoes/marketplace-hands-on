@@ -7,7 +7,11 @@ Headers:
 * access_token: DPggXLj1MpOW
 
 ### Marcas
- GET http://api-sandbox.netshoes.com.br/api/v1/brands
+''' curl -X GET \
+  http://api-sandbox.netshoes.com.br/api/v1/brands \
+  -H 'access_token: DPggXLj1MpOW' \
+  -H 'client_id: r0lnkidgOcBw'
+'''
 
 ### Cores
 GET http://api-sandbox.netshoes.com.br/api/v1/colors
