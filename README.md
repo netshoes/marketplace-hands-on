@@ -1,7 +1,7 @@
 # marketplace-hands-on
 Projeto Marketplace Hands-ON
 
-# [Documentação](http://developers.netshoes.com.br/api-portal/) |  [Chat](https://gitter.im/marketplace-hands-on/v2)
+# [Documentação](http://developers.netshoes.com.br/api-portal/) |  [Chat do evento](https://gitter.im/marketplace-hands-on/v2)
 
 # Exercícios 
 
