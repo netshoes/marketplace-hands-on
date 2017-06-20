@@ -5,6 +5,7 @@ Headers:
   client_id: ${client_id}
   access_token: ${access_token}
 
+Payload
 {
    "sku":"exercicio-handson",
    "productGroup": "exercicio-handson",
