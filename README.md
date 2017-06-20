@@ -12,8 +12,29 @@ http://developers.netshoes.com.br/api-portal/
 
 #### Exercício 01
 
-1) [Explicação e contratos para o exercício 01](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-01)
+- [Explicação e contratos para o exercício 01](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-01)
 
 #### Exercício 02
 
-2) [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-02)
+- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-02)
+
+#### Exercício 03
+
+- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-03)
+
+#### Exercício 04
+
+- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-04)
+
+#### Exercício 05
+
+- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-05)
+
+#### Exercício 06
+
+- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-06)
+
+#### Exercício 07
+
+- [Explicação e contratos para o exercício 02](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-07)
+
