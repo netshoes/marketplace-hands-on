@@ -33,6 +33,15 @@ Projeto Marketplace Hands-ON
 
 - [Explicação e contratos para o exercício 07](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-07)
 
+# Domínios
+* [CORES](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/1.0#!/Products_Templates/listColors)
+* [SABORES](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/1.0#!/Products_Templates/listFlavors)
+* [TAMANHOS](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/1.0#!/Products_Templates/listSizes)
+* [MARCAS](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/1.0#!/Products_Templates/listBrands)
+* [DEPARTAMENTOS](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/1.0#!/Products_Templates/listDepartments)
+* [TIPO DE PRODUTO](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/1.0#!/Products_Templates/listProductTypes)
+* [TEMPLATES](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/1.0#!/Products_Templates/listTemplates)
+
 # Ferramentas
 
 [POSTMAN](https://www.getpostman.com/)
