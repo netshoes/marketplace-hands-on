@@ -47,4 +47,4 @@ Projeto Marketplace Hands-ON
 [POSTMAN](https://www.getpostman.com/)
 
 # Chat
-[GITTER] https://gitter.im/marketplace-hands-on/v2
+[GITTER](https://gitter.im/marketplace-hands-on/v2)
