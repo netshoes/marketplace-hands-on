@@ -1,3 +1,5 @@
+[Arquivo para importação POSTMAN](https://www.getpostman.com/collections/33cac06943072744537c)
+
 Headers:
 * content-type: application/json
 * client_id: r0lnkidgOcBw
