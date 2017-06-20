@@ -50,3 +50,12 @@ curl -X GET \
   -H 'access_token: DPggXLj1MpOW' \
   -H 'client_id: r0lnkidgOcBw'
 ```
+
+### Atributos
+``` 
+curl -X GET \
+  http://api-sandbox.netshoes.com.br/api/v1/department/6/productType/180/templates \
+  -H 'access_token: DPggXLj1MpOW' \
+  -H 'client_id: r0lnkidgOcBw'
+```
+
