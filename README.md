@@ -40,3 +40,6 @@ Projeto Marketplace Hands-ON
 # Ferramentas
 
  - [POSTMAN](https://www.getpostman.com/)
+
+# Arquivo para importação POSTMAN
+ - https://www.getpostman.com/collections/6d22870fabc9d5731808
