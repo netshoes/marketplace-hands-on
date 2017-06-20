@@ -3,6 +3,17 @@ Projeto Marketplace Hands-ON
 
 # [Documentação](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/2.0) |  [Chat](https://gitter.im/marketplace-hands-on/v2) | [Apresentação](https://docs.google.com/presentation/d/1zVeFbiTiBeJWBRCqEJqSHOhTz8DPbN_U_TChYJbXKXk/edit?usp=sharing)
 
+# Domínios
+
+ - [Templates de produtos](https://github.com/netshoes/marketplace-hands-on/tree/product-template)
+
+# Ferramentas
+
+ - [POSTMAN](https://www.getpostman.com/)
+
+# Arquivo para importação POSTMAN
+ - https://www.getpostman.com/collections/6d22870fabc9d5731808
+
 # Exercícios 
 
 #### Exercício 01
@@ -32,14 +43,3 @@ Projeto Marketplace Hands-ON
 #### Exercício 07
 
 - [Explicação e contratos para o exercício 07](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-07)
-
-# Domínios
-
- - [Templates de produtos](https://github.com/netshoes/marketplace-hands-on/tree/product-template)
-
-# Ferramentas
-
- - [POSTMAN](https://www.getpostman.com/)
-
-# Arquivo para importação POSTMAN
- - https://www.getpostman.com/collections/6d22870fabc9d5731808
