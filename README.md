@@ -1,5 +1,6 @@
 PUT http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson
-```javascript
+
+```json
 {
    "sku":"exercicio-handson",
    "productGroup": "exercicio-handson",
