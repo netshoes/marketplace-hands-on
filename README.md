@@ -3,6 +3,8 @@ Projeto Marketplace Hands-ON
 
 # [Documentação](http://developers.netshoes.com.br/api-portal/) |  [Chat do evento](https://gitter.im/marketplace-hands-on/v2)
 
+# [Apresentação](https://docs.google.com/presentation/d/1zVeFbiTiBeJWBRCqEJqSHOhTz8DPbN_U_TChYJbXKXk/edit?usp=sharing)
+
 # Exercícios 
 
 #### Exercício 01
