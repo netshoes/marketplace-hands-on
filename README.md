@@ -1,11 +1,6 @@
 ### Arquivo para importação POSTMAN
 https://www.getpostman.com/collections/33cac06943072744537c
 
-Headers:
-* content-type: application/json
-* client_id: r0lnkidgOcBw
-* access_token: DPggXLj1MpOW
-
 ### Marcas
 ``` 
 curl -X GET \
@@ -15,16 +10,43 @@ curl -X GET \
 ```
 
 ### Cores
-GET http://api-sandbox.netshoes.com.br/api/v1/colors
+``` 
+curl -X GET \
+  http://api-sandbox.netshoes.com.br/api/v1/colors \
+  -H 'access_token: DPggXLj1MpOW' \
+  -H 'client_id: r0lnkidgOcBw'
+```
 
 ### Sabores 
-GET http://api-sandbox.netshoes.com.br/api/v1/flavors
+``` 
+curl -X GET \
+  http://api-sandbox.netshoes.com.br/api/v1/flavors \
+  -H 'access_token: DPggXLj1MpOW' \
+  -H 'client_id: r0lnkidgOcBw'
+```
 
 ### Tamanhos
-GET http://api-sandbox.netshoes.com.br/api/v1/sizes
+``` 
+curl -X GET \
+  http://api-sandbox.netshoes.com.br/api/v1/sizes \
+  -H 'access_token: DPggXLj1MpOW' \
+  -H 'client_id: r0lnkidgOcBw'
+```
+
 
 ### Departamentos 
-GET http://api-sandbox.netshoes.com.br/api/v1/bus/NS/departments
+``` 
+curl -X GET \
+  http://api-sandbox.netshoes.com.br/api/v1/bus/NS/departments \
+  -H 'access_token: DPggXLj1MpOW' \
+  -H 'client_id: r0lnkidgOcBw'
+```
+
 
 ### Tipo de Produtos 
-GET http://api-sandbox.netshoes.com.br/api/v1/department/6/productType
+``` 
+curl -X GET \
+  http://api-sandbox.netshoes.com.br/api/v1/department/6/productType \
+  -H 'access_token: DPggXLj1MpOW' \
+  -H 'client_id: r0lnkidgOcBw'
+```
