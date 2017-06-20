@@ -1,6 +1,0 @@
-
-# POST http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson/stocks
-
-{
-  "available": -5
-}
