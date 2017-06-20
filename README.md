@@ -1,7 +1,7 @@
 # marketplace-hands-on
 Projeto Marketplace Hands-ON 
 
-# [Documentação](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace/2.0) |  [Chat](https://gitter.im/marketplace-hands-on/v2) | [Apresentação](https://docs.google.com/presentation/d/1zVeFbiTiBeJWBRCqEJqSHOhTz8DPbN_U_TChYJbXKXk/edit?usp=sharing)
+# [Documentação](http://developers.netshoes.com.br/api-portal/swagger/api-marketplace) |  [Chat](https://gitter.im/marketplace-hands-on/v2) | [Apresentação](https://docs.google.com/presentation/d/1zVeFbiTiBeJWBRCqEJqSHOhTz8DPbN_U_TChYJbXKXk/edit?usp=sharing)
 
 # Ferramentas
 
