@@ -33,7 +33,7 @@ Projeto Marketplace Hands-ON
 
 - [Explicação e contratos para o exercício 07](https://github.com/netshoes/marketplace-hands-on/tree/exercicio-07)
 
-# Dominios
+# Domínios
 
  - [Templates de produtos](https://github.com/netshoes/marketplace-hands-on/tree/product-template)
 
