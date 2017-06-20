@@ -9,6 +9,7 @@ Projeto Marketplace Hands-ON
 
 # Arquivo para importação POSTMAN
  - https://www.getpostman.com/collections/6d22870fabc9d5731808
+ - https://www.getpostman.com/collections/33cac06943072744537c
 
 # Domínios
 
