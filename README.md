@@ -77,7 +77,3 @@ curl -X PUT \
    ]
 }'
 ```
-
-Token API V1 sandbox
-* client_id: r0lnkidgOcBw
-* access_token: DPggXLj1MpOW
