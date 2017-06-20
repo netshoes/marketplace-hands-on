@@ -1,5 +1,8 @@
 POST http://api-sandbox.netshoes.com.br/api/v2/products
 
+Headers:
+  Content-type: application/json
+
 ```json
 {
    "sku":"exercicio-handson",
