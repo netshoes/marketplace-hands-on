@@ -1,24 +1,11 @@
-PUT http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson/status
-
 Headers:
 * content-type: application/json
-* client_id: ${client_id}
-* access_token: ${access_token}
+* client_id: r0lnkidgOcBw
+* access_token: DPggXLj1MpOW
 
-Payload
-```json
-{
-	"status": "OK"
-}
-```
-
-```bash
-curl -X PUT \
-  http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson/status \
-  -H 'access_token: ${access_token}' \
-  -H 'client_id: ${client_id}' \
-  -H 'content-type: application/json' \
-  -d '{
-	"status": "OK"
-}'
-```
+GET http://api-sandbox.netshoes.com.br/api/v1/brands
+GET http://api-sandbox.netshoes.com.br/api/v1/colors
+GET http://api-sandbox.netshoes.com.br/api/v1/flavors
+GET http://api-sandbox.netshoes.com.br/api/v1/sizes
+GET http://api-sandbox.netshoes.com.br/api/v1/bus/NS/departments
+GET http://api-sandbox.netshoes.com.br/api/v1/department/6/productType
