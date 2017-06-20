@@ -1,13 +1,26 @@
-# PUT http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson
-
 # GET http://api-sandbox.netshoes.com.br/api/v1/brands
+Headers:
+  content-type: application/json
+  client_id: ${client_id_v1}
+  access_token: ${access_token_v1}
+
 # GET http://api-sandbox.netshoes.com.br/api/v1/colors
+Headers:
+  content-type: application/json
+  client_id: ${client_id_v1}
+  access_token: ${access_token_v1}
+
 # GET http://api-sandbox.netshoes.com.br/api/v1/flavors
+Headers:
+  content-type: application/json
+  client_id: ${client_id_v1}
+  access_token: ${access_token_v1}
 
-# token API V1 sandbox
-# client_id:r0lnkidgOcBw
-# access_token:DPggXLj1MpOW
-
+# PUT http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson
+Headers:
+  content-type: application/json
+  client_id: ${client_id}
+  access_token: ${access_token}
 {
    "sku":"exercicio-handson",
    "productGroup": "exercicio-handson",
@@ -39,3 +52,40 @@
      }
    ]
 }
+
+curl -X PUT \
+http://api-sandbox.netshoes.com.br/api/v2/products/exercicio-handson \
+-H 'access_token: ${access_token}' \
+-H 'client_id: ${client_id}' \
+-H 'content-type: application/json' \
+-d '{
+"sku":"exercicio-handson",
+"productGroup": "exercicio-handson",
+"department": "Dia a dia",
+"productType": "Esportivo",
+"brand": "Nike",
+"name": "Tênis Priority Mid",
+"description": "O Tênis Priority Mid foi desenhado para seu dia a dia.",
+"color": "Preto+Mostarda",
+"gender": "Homem",
+"manufacturerCode":"exercicio-handson",
+"size": "40",
+"height": "0.15",
+"width": 1,
+"depth": 1,
+"weight": 0,
+"video":"http://www.netshoes.com",
+"images": [
+{
+"url":"http://myserver/image1.jpg"
+}
+],
+"attributes": [
+{
+"name": "Tecnologias",
+"values": [
+"Air"
+]
+}
+]
+}'
